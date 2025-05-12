@@ -5,11 +5,11 @@
 - [学长的完整资料库](https://github.com/EmptyBlueBox/Computer_Architectures-ljl-2024Spring-PKU)
 
 ## Record
-|Date|Topic|Note for Note|Status|
-|-|-|-|-|
-|4.23|(讲座) HBM : 面向AI的芯片|实在听不太懂, 尽力记了一些结论|已完结|
-|4.28+4.30|总线及总线标准|全新内容, mooc中没有||
-|5.12|中断控制器和定时器|如果期中前学了mooc, 理论上只需关注"线下课内容"小节||
+|Date|Topic|About lectures|Note for Notes|Status|
+|-|-|-|-|-|
+|4.23|(讲座) HBM : 面向AI的芯片|围绕 DDR(Double Data Rate Synchronous Dynamic Random-Access Memory) 和 HBM(High Bandwidth Memory), 展开讲历史沿革和行业趋势, 贯穿一些技术报告|实在听不太懂, 尽力记了一些结论|已完结|
+|4.28+4.30|总线及总线标准|总线, 总线协议及其应用. Highlight在于七个场景的不同传输方式|全新内容, 都得看|已完结(7大场景计划再修订一次)|
+|5.12|中断控制器和定时器|先回顾了mooc中的中断与异常, 再分开讲中断控制器和定时器, 最后展示其系统配置.|前5节我照搬学长mooc笔记因此没有记"中断与异常", 实质上线下课只是简单回顾. 需要关注的内容在最后一小节"线下课内容"|已完结|
 
 ## Note
 想到一点写一点, 不定期更新
